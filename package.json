@@ -1,0 +1,29 @@
+{
+  "name": "key-value",
+  "version": "0.0.1",
+  "description": "key-value operation",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ruanyl/key-value"
+  },
+  "keywords": [
+    "key value"
+  ],
+  "author": "Yulong Runa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruanyl/key-value/issues"
+  },
+  "homepage": "https://github.com/ruanyl/key-value",
+  "dependencies": {
+    "ava": "0.0.4",
+    "expand-object": "^0.1.2",
+    "keys-length": "^0.1.0",
+    "set-value": "^0.2.0"
+  },
+  "devDependencies": {}
+}

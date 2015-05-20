@@ -3,7 +3,7 @@ key-value
 [![build status](https://secure.travis-ci.org/ruanyl/key-value.svg)](http://travis-ci.org/ruanyl/key-value)
 [![NPM version](https://badge.fury.io/js/key-value.svg)](http://badge.fury.io/js/key-value)
 
-key-value operation
+This is a collection of key-value operations. It includes a bunch of tiny packages.
 
 ## Installation
 
